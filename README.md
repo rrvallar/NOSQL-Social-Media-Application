@@ -10,5 +10,5 @@ The user is able to  test API POST, PUT, and DELETE routes, which allows for the
 Below shows a video demonstrating the project using Insomnia, as well as the acceptance criteria.
 <img width="737" alt="Screenshot 2022-09-13 194615" src="https://user-images.githubusercontent.com/103392875/190031084-c12b6513-0749-4cdb-be03-5e5e4ccd5318.png">
 
-https://clipchamp.com/watch/iY9BTfSDrrU
+https://clipchamp.com/watch/bBqm3u4o16O
 
